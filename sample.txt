@@ -1,2 +1,3 @@
 쉬운 git사용법
 add 변경사항
+commit
